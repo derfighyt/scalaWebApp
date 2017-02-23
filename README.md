@@ -9,7 +9,7 @@ spring-scala的最新版本是2013年发布的，不知道是不是还在更新�
 
 ##创建Java Web项目
 正常创建Java Web项目，导入Maven支持，调整目录结构和pom文件，顺手建了src/main/scala目录备用。
-![项目结构图片](src)
+![项目结构图片](https://derfighyt.github.io/notes/scala/img/01-simple_web_app_structure.png)
 
 加入web.xml，log4j.xml，spring-web-servlet.xml三个配置文件
 
